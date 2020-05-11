@@ -6,13 +6,10 @@ on:
   pull_request:
   repository_dispatch:
     types: [apb]
-<<<<<<< HEAD
-=======
 
 env:
   PIP_CACHE_DIR: ~/.cache/pip
   PRE_COMMIT_CACHE_DIR: ~/.cache/pre-commit
->>>>>>> 3301dfa04f4cce444deb0443858a37f05503207c
 
 jobs:
   lint:
