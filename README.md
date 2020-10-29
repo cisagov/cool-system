@@ -18,16 +18,10 @@ account.
 - [Submit feedback](https://github.com/cisagov/cool-system/issues/new/choose) –
   Found something that needs changing?  Open an issue and let us know.
 
-## Common administration tasks ##
+## Wiki documentation ##
 
-- [User Management](/guides/admin/users.md)
-- [Environment Management](/guides/admin/env.md)
-
-## Initial setup and configuration ##
-
-- [AWS Account Creation](/guides/initial/aws_accounts.md)
-- [Infrastructure Deployment](/guides/initial/infra.md)
-- [LDAP](/guides/initial/ldap.md)
+See the [COOL system wiki](https://github.com/cisagov/cool-system/wiki)
+for more documentation, including common tasks and administration guides.
 
 ## Contributing ##
 
