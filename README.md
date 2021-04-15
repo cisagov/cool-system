@@ -8,6 +8,18 @@
 
 Welcome to the CISA's Cloud Optimized Operations Lab (COOL).
 
+The COOL provides ephemeral environments for performing
+cybersecurity assessments. Each assessment is isolated from other
+assessments and is accessed via a browser-based remote desktop after
+authenticating into the COOL VPN via multi-factor authentication.
+After an assessment is complete, all data is archived for future use
+and the assessment environment is destroyed.
+
+## Wiki documentation ##
+
+See the [COOL system wiki](https://github.com/cisagov/cool-system/wiki)
+for more documentation, including common tasks and administration guides.
+
 ## Quick links for COOL users ##
 
 - [Get a COOL user account](https://github.com/cisagov/cool-system/wiki/Enrolling)
@@ -17,11 +29,6 @@ Welcome to the CISA's Cloud Optimized Operations Lab (COOL).
 account.
 - [Submit feedback](https://github.com/cisagov/cool-system/issues/new/choose) –
   Found something that needs changing?  Open an issue and let us know.
-
-## Wiki documentation ##
-
-See the [COOL system wiki](https://github.com/cisagov/cool-system/wiki)
-for more documentation, including common tasks and administration guides.
 
 ## Contributing ##
 
