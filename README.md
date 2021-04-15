@@ -12,7 +12,7 @@ The COOL provides ephemeral environments for performing
 cybersecurity assessments. The assessment environments are isolated
 from each other and are accessed via a browser-based remote desktop after
 authenticating into the COOL VPN via multi-factor authentication.
-After an assessment is complete, all relevant data is archived for 
+After an assessment is complete, all relevant data is archived for
 future use and the assessment environment is destroyed.
 
 ## Wiki documentation ##
