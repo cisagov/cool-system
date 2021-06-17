@@ -1,6 +1,6 @@
-<div align="center">
+<h1 align="center">
 <img width="460" src="https://raw.githubusercontent.com/cisagov/cool-system/develop/assets/images/cool_logo.png">
-</div>
+</h1>
 
 # Cloud Optimized Operations Lab (COOL) #
 
